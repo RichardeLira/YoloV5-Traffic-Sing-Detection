@@ -8,20 +8,6 @@ O objetivo deste projeto é identificar e localizar placas de trânsito em image
 
 O modelo de detecção é capaz de identificar diferentes tipos de placas de trânsito, como placas de limite de velocidade, placas de parada obrigatória, placas de proibição, entre outras. Ele pode ser facilmente adaptado para detecção de placas específicas de acordo com as necessidades do projeto.
 
-## Como Usar
-
-Para utilizar o projeto, siga as etapas abaixo:
-
-1. Faça o download do repositório para o seu ambiente local.
-2. Instale as dependências necessárias especificadas no arquivo `requirements.txt`.
-3. Certifique-se de ter um ambiente Python com suporte a execução de modelos de Deep Learning.
-4. Execute o script principal do projeto, fornecendo o caminho para a imagem ou vídeo que você deseja analisar.
-5. O modelo irá realizar a detecção das placas de trânsito na imagem ou vídeo fornecido.
-6. Os resultados da detecção serão exibidos na saída, mostrando a localização das placas encontradas.
-
-## Conjunto de Dados
-
-O conjunto de dados utilizado para treinar o modelo foi compilado a partir de várias fontes, contendo imagens de placas de trânsito em diferentes cenários e condições de iluminação. Ele foi devidamente rotulado com as informações de classe e bounding boxes.
 
 ## Treinamento do Modelo
 
