@@ -1,5 +1,5 @@
 # Detecção de Placas de Trânsito com YOLOv5
-<img src="results/baixados (1).png" alt="Descrição da imagem" width="300">
+<img src="results/baixados (1).png" alt="Descrição da imagem" width="1000">
 
 
 <img src="results/result02.png" alt="Descrição da imagem" width="300">
