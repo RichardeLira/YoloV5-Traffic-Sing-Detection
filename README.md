@@ -2,10 +2,10 @@
 <img src="results/baixados (1).png" alt="Descrição da imagem" width="1000">
 
 
-<img src="results/result02.png" alt="Descrição da imagem" width="300">
+<img src="results/result02.png" alt="Descrição da imagem" width="1000">
 
 
-<img src="results/results03.png" alt="Descrição da imagem" width="300">
+<img src="results/results03.png" alt="Descrição da imagem" width="1000">
 
 
 Este é um projeto que utiliza o modelo de Deep Learning YOLOv5 para a detecção de placas de trânsito em imagens e vídeos. O YOLOv5 é um framework de detecção de objetos em tempo real, conhecido por sua alta velocidade e precisão.
